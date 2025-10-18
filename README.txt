@@ -11,6 +11,9 @@ para la compilacion de los ejercicios del examen:
     para compilar los archivos urdf:
         ros2 launch robot_description view_robot.launch.py
 
+    nota: en todos los urdf los link base son los link0_passive, en el robot doble 
+    es el A_link0_passive
+
     el robot doble funciona con los comandos para el movimiento de cada articulacion
 
 2. 
